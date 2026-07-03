@@ -1,0 +1,22 @@
+.stApp{
+    background:#141414;
+}
+
+section[data-testid="stSidebar"]{
+    background:#0b0b0b;
+}
+
+h1{
+    color:#E50914;
+}
+
+div[data-testid="stMetric"]{
+    border-radius:15px;
+    background:#222;
+    padding:15px;
+}
+
+div[data-testid="stVerticalBlockBorderWrapper"]{
+    border-radius:15px;
+    background:#1f1f1f;
+}
